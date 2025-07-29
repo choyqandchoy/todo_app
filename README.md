@@ -130,24 +130,7 @@ go run main.go
 • Headers:  
   • Authorization: Bearer <ваш JWT токен>
   
-##📁 Структура проекта
-
-##todo_app/
-│
-├── main.go
-├── go.mod / go.sum
-│
-├── handlers/
-│   ├── auth.go
-│   ├── tasks.go
-│   └── middleware.go
-│
-├── models/
-│   ├── db.go
-│   ├── jwt.go
-│   ├── task.go
-│   └── user.go
 
 
-##📌 Автор  Проект создан в обучающих целях. 
+## 📌 Автор  Проект создан в обучающих целях. 
 GitHub: @choyqandchoy
