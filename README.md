@@ -27,7 +27,5 @@
 
 ## 🔧 Установка и запуск
 
-1. Клонируй репозиторий:
-```bash
-git clone https://github.com/твой-никнейм/имя-репозитория.git
+git clone https://github.com/choyqandchoy/.git
 cd имя-репозитория
